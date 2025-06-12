@@ -69,9 +69,6 @@ dmypy.json
 # pytype
 .pytype/
 
-# Jupyter Notebook
-*.ipynb
-
 # VS Code
 .vscode/
 
