@@ -101,32 +101,6 @@ Desktop.ini
 *.swo
 *~
 
-# Data files
-*.csv
-*.tsv
-*.dat
-*.db
-*.sqlite
-*.h5
-*.hdf5
-*.pkl
-*.joblib
-
-# Model files
-*.ckpt
-*.pth
-*.pt
-*.onnx
-*.pb
-
-# Images
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
-
 # Output folders
 output/
 outputs/
